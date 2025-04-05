@@ -45,7 +45,7 @@ document.addEventListener('DOMContentLoaded', function() {
         profile: {
             firstName: '',
             lastName: '',
-            age: 0,
+            age: null,
             gender: '',
             diabetesType: 'type2',
             medications: 'Metformin',
