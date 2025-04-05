@@ -43,10 +43,10 @@ document.addEventListener('DOMContentLoaded', function() {
     // User data
     let userData = {
         profile: {
-            firstName: 'John',
-            lastName: 'Doe',
-            age: 45,
-            gender: 'male',
+            firstName: '',
+            lastName: '',
+            age: 0,
+            gender: '',
             diabetesType: 'type2',
             medications: 'Metformin',
             allergies: ''
